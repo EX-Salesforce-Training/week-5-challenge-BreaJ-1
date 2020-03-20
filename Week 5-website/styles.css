@@ -1,0 +1,75 @@
+h2 {
+font-family: courier;
+justify-content: center;
+color: yellow;
+}
+
+h3 {
+font-family: courier;
+justify-content: center;
+color: yellow;
+}
+
+.flex-container {
+font-family: serif;
+justify-content: left;
+}
+
+p {
+font-family: serif;
+color: white;
+font-size: 16pt;
+}
+
+div.about {
+font-size: 16pt;
+}
+
+ul{
+color: white;
+font-size: 16pt;
+}
+
+span {
+color: Chartreuse;
+}
+
+body {
+background-color: black;
+
+}
+table {
+  border-color: white;
+  
+  border-spacing: 5px;
+  color: white;
+ 
+}
+
+p2 {
+color: white;
+font-size: 16pt;
+}
+
+p3 {
+color: white;
+}
+
+h4 {
+color: LightGray;
+font-size: 16pt;
+}
+
+a:link {
+  text-decoration: none;
+  color: yellow;
+}
+
+a:visited {
+ color: purple;
+}
+
+a:hover {
+color: white;
+}
+
